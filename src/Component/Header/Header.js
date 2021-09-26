@@ -12,7 +12,7 @@ const Header = () => {
                 <div className="ms-auto">
                     <nav>
                         <a className="me-3" href="/login"><i class="fas fa-sign-in-alt"></i> Login</a>
-                        <a href="/reg">Registation</a>
+                        <a href="/reg">Registration</a>
                     </nav>
                     <h1>Millad-Box</h1>
                     <p><i>online sweet shop bangladesh#</i></p>
