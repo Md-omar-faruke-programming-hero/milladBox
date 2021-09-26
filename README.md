@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# millad-box (online sweet shop)
 
 This is  project link. [click here to see the project live](https://millad-box-reactproject.netlify.app/).
 
