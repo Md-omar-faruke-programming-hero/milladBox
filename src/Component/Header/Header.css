@@ -1,0 +1,20 @@
+nav a{
+    text-decoration: none;
+    color: black;
+    margin-right: 10px;
+    margin-right: 30px;
+    margin: auto;
+
+}
+.nav1{
+    line-height: 4rem;
+}
+
+.nav{
+    border: 1px solid lightblue;
+    border-radius: 20px;
+    width: 70%;
+    margin-top: -25px;
+    background-color: white;
+    padding: 10px 0px;
+}
